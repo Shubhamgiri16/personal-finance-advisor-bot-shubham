@@ -157,3 +157,20 @@ npm run dev
 - **Savings Goals:**
   - New Laptop: Target ₹60,000 | Saved ₹35,000 (58.3%)
   - Emergency Fund: Target ₹1,00,000 | Saved ₹42,000 (42.0%)
+ 
+
+
+This project is not done by virtual environment for running this paste this command in powershell
+new terminal 
+cd "C:\Users\om\Documents\Advisor bot Shubham"
+.\venv\Scripts\Activate.ps1
+python backend\app.py
+
+
+2nd step again in new terminal
+cd "C:\Users\om\Documents\Advisor bot Shubham\frontend"
+npm run dev
+
+
+and it will run 
+
