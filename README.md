@@ -2,6 +2,9 @@
 
 # 👆👆This is Demo video link of my project
 
+## My project documentations and video demo link 👇👇
+https://docs.google.com/document/d/1TPzH38QhiLOTtvhbPrYqByoUcm7Zb0nu/edit?usp=drivesdk&ouid=113766598402026678781&rtpof=true&sd=true
+
 
 
 # 💰 Personal Finance Advisor Bot
